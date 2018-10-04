@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">af-ext</string>
+
+    <string name="purchase_succeed">Purchase succeed</string>
+    <string name="purchase_failed_description">Purchase failed. We are sorry about that! You may not have the Google Play app installed on your phone.</string>
+
+    <string name="ok" translatable="false">@android:string/ok</string>
+    <string name="purchase_succeed_description" translatable="false">@string/af_thank_you_for_purchase</string>
+    <string name="purchase_fails" translatable="false">@string/af_purchase_fail</string>
+    <string name="billing_not_supported" translatable="false">@string/af_billing_is_not_supported_on_your_device</string>
 </resources>
